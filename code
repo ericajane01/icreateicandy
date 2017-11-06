@@ -1,0 +1,127 @@
+h1 {
+    font-family: 'RobotoSlab-Light', 'Roboto Slab Light', 'Roboto Slab';
+    font-weight: 200;
+    font-style: normal;
+    color: #575E96;
+    font-size: 40px;
+}
+
+h2.white {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #fff !important;
+    font-size: 30px;
+}
+h2.white-card {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #fff !important;
+    font-size: 30px;
+    background-color:#575e96;
+    padding:10px 10px 0 10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    text-align:center;
+}
+h2.white-card-bottom {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #fff !important;
+    font-size: 30px;
+    background-color: #575e96;
+    padding: 10px 10px 0 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align:center;
+}
+
+h3 {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #777777;
+    font-size: 21px;
+    margin-top: 10px !important;
+}
+h2 {
+    font-family: 'Roboto', san-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #666 !important;
+    font-size: 30px;
+    margin-top:0 !important;
+}
+h2.no-margin {
+    font-family: 'Roboto', san-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #666 !important;
+    font-size: 30px;
+    margin-top:none;
+    z-index:-100;
+}
+    h2.margin {
+        font-family: 'Roboto', san-serif;
+        font-weight: 300;
+        font-style: normal;
+        color: #666 !important;
+        font-size: 30px;
+        margin-left:5%;
+    }
+p.small-font{
+    font-size:12px;
+}
+h1.white {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 40px;
+}
+h4 {
+    font-family: 'Roboto', san-serif;
+    font-weight: 400 !important;
+    font-style: normal;
+    color: #666;
+   
+}
+li.main-nav {
+    color: #666 !important;
+    font-family: 'Roboto', san-serif;
+    font-size: 15px;
+}
+#grad1 {
+    height:x;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient( #ddd, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient( #ddd, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient( #ddd, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient( #ddd, white); /* Standard syntax (must be last) */
+    width:100%;
+    border-top:solid thin #aaa;
+   
+}
+header.blueheader-style{
+    background-color:#575e96;
+    padding:10px;
+}
+h1.white-blue {
+    font-family: 'Roboto', san-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 40px;
+    height: 10%;
+    background: #575e97; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient( #2f3473, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient( #2f3473, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient( #2f3473, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient( #2f3473,#575e96); /* Standard syntax (must be last) */
+    width: 100%;
+    border-top: solid thin #aaa;
+    padding: 20px 0 10px 20px;
+    margin-bottom:30px;
+}
